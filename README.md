@@ -1,0 +1,2 @@
+# KKA
+Konsep Kecerdasan Artifisial
